@@ -13,15 +13,15 @@ project 1 - A Random Quote Generator
 
 const quotes = [
   {
-quote: "I have not failed. Ive just found 10,000 ways that wont work. Thomas Edison" , source: "Thomas Edison", citation: "Brainyquote.com", year: "1925"},
+quote: "I have not failed. Ive just found 10,000 ways that wont work. " , source: " Thomas Edison", citation: " Brainyquote.com", year: " -1925"},
 
-{quote: "Any sufficiently advanced technology is indistinguishable from magic", source: "Arthur C. Clarke", citation: "", year: ''}, 
+{quote: "Any sufficiently advanced technology is indistinguishable from magic ", source: " Arthur C. Clarke", citation: "", year: ''}, 
 
-{quote:"The real problem is not whether machines think but whether men do.", source: "B.F. Skinner", citation:"", year:""},
+{quote:"The real problem is not whether machines think but whether men do. ", source: " B.F. Skinner", citation:"", year:""},
 
-{quote:"The internet is so big, so powerful and pointless that for some people it is a complete substitute for life", source:"Andrew Brown", citation:"Brainyquote.com", year:"2012"},
+{quote:"The internet is so big, so powerful and pointless that for some people it is a complete substitute for life ", source:" Andrew Brown", citation:"Brainyquote.com", year:" -2012"},
 
-{quote:"Technological progress has merely provided us with more efficient means for going backwards", source:"Aldous Huxley", citation:"", year:""}
+{quote:"Technological progress has merely provided us with more efficient means for going backwards ", source:" Aldous Huxley", citation:"", year:""}
 
   ];
 
